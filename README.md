@@ -1,0 +1,1 @@
+# kinsta.yml
